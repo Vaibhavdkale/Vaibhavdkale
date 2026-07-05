@@ -55,7 +55,7 @@ I am passionate about Data Analytics, Business Intelligence, and Artificial Inte
 
 📧 Email: vaibhavka707@gmail.com
 
-💼 LinkedIn: (Add your LinkedIn profile URL)
+💼 LinkedIn: https://www.linkedin.com/in/vaibhav-kale-mba
 
 🐙 GitHub: https://github.com/Vaibhavdkale
 
