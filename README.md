@@ -2,8 +2,17 @@
 
 ## 🎓 MBA in Business Analytics
 
-I am passionate about Data Analytics, Business Intelligence, and Artificial Intelligence. I enjoy transforming raw data into meaningful business insights through dashboards, analytics, and data visualization.
+## 👨‍💻 About Me
 
+🎓 MBA in Business Analytics
+
+📊 Passionate about Business Intelligence and Data Analytics
+
+📈 Skilled in building interactive dashboards using Power BI and Tableau
+
+🗄️ Experienced in SQL, Excel, Python, Power Query, and DAX
+
+🎯 Seeking opportunities as a Data Analyst or Business Analyst
 ---
 
 ## 🚀 Technical Skills
@@ -21,6 +30,15 @@ I am passionate about Data Analytics, Business Intelligence, and Artificial Inte
 ---
 
 ## 📂 Featured Projects
+
+| Project | Tools |
+|---------|-------|
+| 🌍 Global Airbnb Performance Dashboard | Power BI |
+| 🏥 Hospital Emergency Room Dashboard | Power BI |
+| 🚚 Supply & Operational Analytics Reports | Power BI |
+| 🛍️ AJIO Retail Analytics Dashboard | Power BI, DAX |
+| 🍔 Food Delivery Customer Personalization | Excel, Statistics |
+| 📉 Time Series Forecasting | Python, Excel |
 
 ### 📊 Power BI Dashboards
 
