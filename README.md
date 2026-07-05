@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Vaibhav Dnyandev Kale
 
-<!--
-**Vaibhavdkale/Vaibhavdkale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 MBA in Business Analytics
 
-Here are some ideas to get you started:
+I am passionate about Data Analytics, Business Intelligence, and Artificial Intelligence. I enjoy transforming raw data into meaningful business insights through dashboards, analytics, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Technical Skills
+
+- 📊 Power BI
+- 📈 Tableau
+- 🗄️ SQL
+- 🐍 Python
+- 📑 Microsoft Excel
+- ⚡ Power Query
+- 📐 DAX
+- 📊 Statistics
+- 📉 Data Visualization
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Power BI Dashboards
+
+- 🌍 Global Airbnb Performance Dashboard
+- 🏥 Hospital Emergency Room Performance Dashboard
+- 🚚 Supply and Operational Analytics Reports
+- 🛍️ AJIO Retail Analytics Dashboard
+
+### 📈 Business Analytics
+
+- 🍔 Customer Personalization in Food Delivery Apps
+- 👥 Customer Segmentation (RFM Analysis)
+- 📉 Time Series Forecasting
+
+### 💻 Data Analytics
+
+- 🗄️ SQL Business Analytics
+- 🐍 Python Data Analysis
+
+---
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Generative AI
+- Advanced SQL
+- Python for Data Analytics
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: vaibhavka707@gmail.com
+
+💼 LinkedIn: (Add your LinkedIn profile URL)
+
+🐙 GitHub: https://github.com/Vaibhavdkale
+
+⭐ Thanks for visiting my GitHub profile!
